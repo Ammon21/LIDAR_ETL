@@ -1,6 +1,6 @@
 # LIDER ETL
 
-![lidar-heatmap](paris.jpg)
+![lidar-heatmap](paris.JPG)
 
 **Table of contents**
 
