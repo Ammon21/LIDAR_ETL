@@ -1,5 +1,6 @@
 # LIDER ETL
 
+Lidar Example 3d
 ![lidar-heatmap](paris.JPG)
 
 **Table of contents**
@@ -7,6 +8,16 @@
 - [Overview](#overview)
 - [Experiments](#experiments)
 - [Tests](#tests)
+
+<hr>
+
+## Introduction
+
+> <p>This is about how water flows through a maize farm field. This knowledge will help us improve our research on new agricultural products being tested on farms.</p>
+> <p> We would like to know which parts of the farm are likely to produce more or less maize, so that if we try a new fertilizer on part of this farm, we have more confidence that any differences in the maize harvest are due mostly to the new fertilizer changes, and not just random effects due to other environmental factors.</p>
+> <p>We are tasked to produce an easy to use, reliable and well designed python module that domain experts and data scientists can use to fetch, visualise, and transform publicly available satellite and LIDAR data. In particular, our code should interface with USGS 3DEP and fetch data using their API.</p>
+
+<hr>
 
 ## Overview
 
